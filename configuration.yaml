@@ -1,0 +1,4 @@
+# The host you want to monitor
+HOST_IP: "127.0.0.1"
+# How often the host is pinged
+PING_PERIOD: "60"
